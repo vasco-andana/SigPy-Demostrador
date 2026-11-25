@@ -1,3 +1,10 @@
+# Descarregar o projeto
+
+Aceder ao repositório GitHub e clicar no botão verde Code → Download ZIP.
+
+Extrair o ficheiro ZIP para uma pasta no computador.
+
+
 # Reconstrução de RM com SigPy – demonstrador
 
 Simula uma aquisição de RM acelerada: imagem → k-space → subamostragem → reconstrução
