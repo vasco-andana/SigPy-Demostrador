@@ -1,9 +1,9 @@
 # Descarregar o projeto
 
 Aceder ao repositório GitHub e clicar no botão verde Code → Download ZIP.
-
 Extrair o ficheiro ZIP para uma pasta no computador.
 
+Recomenda-se teste no Google Colab
 
 # Reconstrução de RM com SigPy – demonstrador
 
