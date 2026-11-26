@@ -1,7 +1,6 @@
 # Descarregar o projeto
 
-Abrir ficheiro Extrair o ficheiro ZIP para uma pasta no computador.
-
+Abrir ficheiro mri-sigpy-demo.zip e extrair o ficheiro ZIP para uma pasta no computador.
 Recomenda-se teste no Google Colab
 
 # Reconstrução de RM com SigPy – demonstrador
