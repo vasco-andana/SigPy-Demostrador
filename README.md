@@ -1,6 +1,6 @@
 # Descarregar o projeto
 
-Abrir ficheiro mri-sigpy-demo.zip e extrair o ficheiro ZIP para uma pasta no computador.
+Abrir ficheiro mri-sigpy-demo.zip, instalá-lo (download raw fil)e e extrair o ficheiro ZIP para uma pasta no computador.
 Abrir notebook que está no ficheiro extraído. Recomendado usar Google Colab.
 No código de processamento abrir ficheiro zip quando pedido.
 
